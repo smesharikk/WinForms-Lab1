@@ -1,4 +1,4 @@
-# WinForms-Labs
+# WinForms-Lab1
 Лабораторные работы по WinForms 2курс
 
 # WinForms Lab: Работа с интерфейсами и формами
