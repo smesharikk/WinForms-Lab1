@@ -1,0 +1,24 @@
+D:\Уроки\Windows\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\Уроки\Windows\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Уроки\Windows\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Уроки\Windows\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+D:\Уроки\Windows\Lab1\Lab1\obj\Debug\Lab1.FormCreateChange.resources
+D:\Уроки\Windows\Lab1\Lab1\obj\Debug\Lab1.FormStart.resources
+D:\Уроки\Windows\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\Уроки\Windows\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+D:\Уроки\Windows\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Уроки\Windows\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\Уроки\Windows\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\Уроки\Windows\Lab1\Lab1\obj\Debug\Lab1.FormLogin.resources
+D:\Уроки\Windows\Lab1 (без доп задания)\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+D:\Уроки\Windows\Lab1 (без доп задания)\Lab1\obj\Debug\Lab1.FormCreateChange.resources
+D:\Уроки\Windows\Lab1 (без доп задания)\Lab1\obj\Debug\Lab1.FormLogin.resources
+D:\Уроки\Windows\Lab1 (без доп задания)\Lab1\obj\Debug\Lab1.FormStart.resources
+D:\Уроки\Windows\Lab1 (без доп задания)\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\Уроки\Windows\Lab1 (без доп задания)\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+D:\Уроки\Windows\Lab1 (без доп задания)\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Уроки\Windows\Lab1 (без доп задания)\Lab1\obj\Debug\Lab1.exe
+D:\Уроки\Windows\Lab1 (без доп задания)\Lab1\obj\Debug\Lab1.pdb
+D:\Уроки\Windows\Lab1 (без доп задания)\Lab1\bin\Debug\Lab1.exe.config
+D:\Уроки\Windows\Lab1 (без доп задания)\Lab1\bin\Debug\Lab1.exe
+D:\Уроки\Windows\Lab1 (без доп задания)\Lab1\bin\Debug\Lab1.pdb
